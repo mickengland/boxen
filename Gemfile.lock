@@ -14,7 +14,7 @@ GEM
       json_pure (>= 1.7.7, < 2.0)
       librarian-puppet (~> 0.9.10)
       octokit (~> 2.7, >= 2.7.1)
-      puppet (~> 3.0)
+      puppet (3.6.2)
     builder (3.2.2)
     deep_merge (1.0.1)
     diff-lcs (1.2.5)
